@@ -1,0 +1,14 @@
+D:\univer\Information Protection\LR1\LR1\LR1\bin\Debug\netcoreapp3.1\LR1.exe
+D:\univer\Information Protection\LR1\LR1\LR1\bin\Debug\netcoreapp3.1\LR1.deps.json
+D:\univer\Information Protection\LR1\LR1\LR1\bin\Debug\netcoreapp3.1\LR1.runtimeconfig.json
+D:\univer\Information Protection\LR1\LR1\LR1\bin\Debug\netcoreapp3.1\LR1.runtimeconfig.dev.json
+D:\univer\Information Protection\LR1\LR1\LR1\bin\Debug\netcoreapp3.1\LR1.dll
+D:\univer\Information Protection\LR1\LR1\LR1\bin\Debug\netcoreapp3.1\LR1.pdb
+D:\univer\Information Protection\LR1\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.AssemblyInfoInputs.cache
+D:\univer\Information Protection\LR1\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.AssemblyInfo.cs
+D:\univer\Information Protection\LR1\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.csproj.CoreCompileInputs.cache
+D:\univer\Information Protection\LR1\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.dll
+D:\univer\Information Protection\LR1\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.pdb
+D:\univer\Information Protection\LR1\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.genruntimeconfig.cache
+D:\univer\Information Protection\LR1\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.csproj.AssemblyReference.cache
+D:\univer\Information Protection\LR1\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.GeneratedMSBuildEditorConfig.editorconfig
